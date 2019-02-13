@@ -36,12 +36,12 @@ body
 }
 .header
 {
-    height: 9%;
+    height: 9%
     margin:0 auto;
 }
 .logo
 {
-    float:left;
+    float left;
     margin-left: 47%;
     margin-top: 10px;
     height: 44px;
@@ -649,7 +649,7 @@ span>a{
 .top6_2
 {
     margin:5px 0px 15px 15px;
-    width: 1400px;
+    width: 1400;
     height: 81px;
 }
 .top6_2_1
@@ -729,6 +729,7 @@ span>a{
 .top7_3
 {
     float: left;
+    font-size: "宋体";
     margin-top:30px;
     margin-left: 270px;
 }
@@ -832,7 +833,7 @@ span>a{
     cursor: pointer;
     padding-bottom: 5px;
     font-size: 1.1em;
-    hover-color: #FF00FF;
+    hover color: #FF00FF;
 }
 
 .top8_1_2
